@@ -10,7 +10,7 @@ import time
 from datetime import datetime
 engine = pyttsx3.init()
 BASE_URL = "https://api.weatherapi.com/v1/forecast.json?"
-API_KEY = "35d784cf9a5e491aa9955419210101"
+API_KEY = "<API_KEY>"
 CITY = "Seattle"
 INTERVAL = 30
 
